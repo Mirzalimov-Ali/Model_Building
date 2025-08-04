@@ -1,0 +1,13 @@
+basic
+1. Data preprocessing nima?
+2. tushurib qoldirilgan datalarni nechta usulda tuldiradi?
+3. Encoding nima?
+4. Scalingda targetniham scaling qiladimi?
+
+-------------
+Follow-up
+1. Data preprocessing qanchalik muhum?
+2. tushurib qoldirilgan qiymatlarni tuldirmasek nima buladi?
+3. qachon One-hot encoding va qachon Label encodingni ishlatish kerak?
+4. Scalingda biz urganga 3tani birbiridan nima farqi bor?
+5. datasetda feature ustun juda kup bulsa (ex: budget) lekin target ustun (ex: size of family) oz bulsa nima scaling qilmasak nima muammo buladi?
